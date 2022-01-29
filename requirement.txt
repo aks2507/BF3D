@@ -15,5 +15,5 @@ setuptools==60.5.0
 cffi==1.15.0
 easydict==1.7
 plyfile==0.6
-glumpy==1.2.0
+glumpy
 pillow==8.2.0
